@@ -180,7 +180,7 @@ footer {
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    border: 3px solid #1414ff;
+    border: 3px solid #dcd9d9;
     text-align: center
 }
 
@@ -396,7 +396,7 @@ footer {
 #experience {
     padding: 50px 15px;
     text-align: center;
-    border-bottom: 1px solid #1414FF
+    border-bottom: 1px solid #dcd9d9
 }
 
 #experience h2 {
@@ -809,7 +809,7 @@ footer {
 #skills {
     padding: 50px 15px;
     text-align: center;
-    border-bottom: 1px solid #1414FF
+    border-bottom: 1px solid #dcd9d9
 }
 
 #skills h2 {
@@ -839,7 +839,7 @@ footer {
     padding: 50px 15px;
     background: rgba(242, 242, 245);
     text-align: center;
-    border-bottom: 1px solid #1414FF;
+    border-bottom: 1px solid #dcd9d9;
 }
 
 #contact h2 {
