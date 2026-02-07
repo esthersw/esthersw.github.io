@@ -715,7 +715,7 @@ footer {
 
 .project-row-1 .project-image-2 img {
 	max-height: 280px;  
-    max-width: 100%;  
+    width: 100%;  
 	object-fit: cover;
 
 	-webkit-transition: all 1s ease; /* Safari and Chrome */
@@ -727,7 +727,7 @@ footer {
 
 .project-row-2 .project-image-2 img {
   	max-height: 280px;  
- 	 max-width: 100%;  
+ 	width: 100%;  
 	object-fit: cover;
 
 	-webkit-transition: all 1s ease; /* Safari and Chrome */
@@ -739,7 +739,7 @@ footer {
 
 .project-row-3 .project-image-2 img {
   	max-height: 280px;  
- 	max-width: 100%;  
+ 	width: 100%;  
 	object-fit: cover;
 
 	-webkit-transition: all 1s ease; /* Safari and Chrome */
