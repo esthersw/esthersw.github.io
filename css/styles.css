@@ -710,7 +710,7 @@ footer {
 
 .project-image-2 {
   max-height: 180px;  
-  max-width: 300px;  
+  max-width: 100%;  
   overflow: hidden;
 }
 
