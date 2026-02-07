@@ -709,8 +709,9 @@ footer {
 }
 
 .project-image-2 {
-	display: block;
-	overflow: hidden;
+  width: 100%;  
+  max-height: 280px;  
+  overflow: hidden;
 }
 
 .project-row-1 .project-image-2 img {
