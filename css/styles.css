@@ -24,7 +24,7 @@ body.active {
     background: #fff;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #1414FF
+    border: 1px solid #dcd9d9
 }
 
 .no-js #experience-timeline>div h3 {
@@ -180,7 +180,7 @@ footer {
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    border: 3px solid #b9bfc4;
+    border: 3px solid #1414ff;
     text-align: center
 }
 
@@ -381,7 +381,7 @@ footer {
 
 #about {
     padding: 75px 15px;
-    border-bottom: 1px solid #1414FF
+    border-bottom: 1px solid #dcd9d9
 }
 
 #about h2 {
@@ -552,7 +552,7 @@ footer {
 
 #education {
     padding: 50px 15px 20px 15px;
-    border-bottom: 1px solid #1414FF;
+    border-bottom: 1px solid #dcd9d9;
     text-align: center
 }
 
@@ -632,12 +632,12 @@ footer {
 
 #projects {
     padding: 50px 15px;
-    border-bottom: 1px solid #1414FF;
+    border-bottom: 1px solid #dcd9d9;
     text-align: center
 }
 
 #projects h2 {
-    color: #374054;
+    color: #1414ff;
     margin-bottom: 50px
 }
 
