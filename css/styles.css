@@ -235,6 +235,19 @@ footer {
 	display: inline;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0); /* Older property */
+  clip-path: inset(50%); /* New property */
+  border: 0;
+  white-space: nowrap; /* Ensures the content stays on a single line */
+}
+
 .btn-rounded-white {
     display: inline-block;
     color: #fff;
