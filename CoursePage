@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Esther Wong/Dual Shell</title>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="lead">
+        <div id="lead-content">
+			<div class="container">
+	            <div class="row">
+	                <div class="col-md-5">
+						<img src="/images/DualShell.jpg" width="400" height="215">
+						<h4>The double nested shells of the Dual-Shell Resonator Gyroscope. Source: [1].</h4>
+	                </div>
+	                <div class="col-md-7">
+						<h3>MEMS fabrication at UCI MicroSystems Lab</h3>
+						<h4>September 2024&ndash;September 2025</h4>
+	                    <p>
+							As a Junior Specialist at the MicroSystems Lab, I had the opportunity to work in a class 100/1000 cleanroom, assisting with the fabrication of sensors out of fused silica (a high purity glass). I've worked with a sputtering system, dry and wet etching of metal and fused silica, and lithography, as well as an AFM, SEM, and LDV (laser Doppler vibrometer) to perform characterization measurements. 
+						</p>
+	                </div>
+	            </div>
+			</div>
+    	</div>
+	 </div>
+
+	<div id="lead-overlay"></div>
+
+	 <div id="What is a Dual-Shell Gyroscope?">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h2 class="heading">What is a Dual-Shell Gyroscope?</h2>
+                </div>
+                <div class="col-md-8">
+                    <p>
+						The Dual-Shell gyroscope (DSG) is a Coriolis vibratory gyroscope. Developed at the <a href="https://mems.eng.uci.edu/" target="_blank" rel="noopener noreferrer">UCI MicroSystems Lab</a>, the DSG uses micro-glassblowing to create a high-performance fused silica sensor used for navigation where access to a GPS signal is limited. 
+					</p>
+                </div>
+            </div>
+        </div>
+    </div>	
+    <div id="experience" class="background-alt">
+        <h2 class="heading">Fabrication</h2>
+        <div id="experience-timeline">
+            <div data-date="1 - Dry and Wet Etching">
+                 <h4>Cavities are defined in the fused silica wafer</h4>
+                <p>
+                    A combination of lithography, RIE dry etching, and HF wet etching is used to form cavities in the wafer.
+                </p>
+            </div>
+
+            <div data-date="2 - Direct Bonding">
+                <h4>A triple stack is formed</h4>
+                <p>
+                    Oxygen plasma is used to activate the surface of the wafer, making it hydrophilic. Then, the wafers are aligned and bonded together when placed in direct contact. 
+                </p>
+            </div>
+
+            <div data-date="3 - Glassblowing">
+                <h4>3D geometry is created by glassblowing</h4>
+                <p>
+                    Air trapped inside the cavities expands at 1700C, forming the inner and outer shells of the DSG. This method allows the formation of highly symmetric micro-scale devices. 
+                </p>
+            </div>
+
+            <div data-date="4 - Lapping">
+                <h4>Release of the vibrating element</h4>
+                <p>
+                    Back-lapping planarizes and removes material connecting the 2 shells. The vibrating inner shell is responsive to angular acceleration and the fixed outer shell protects against mechanical shock. 
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+		<div class="container">
+            <div class="row">
+                <div class="col-sm-11 copyright">
+                    <p>
+					 References  <br>
+					 [1]  M. H. Asadian, D. Wang, and A. M. Shkel, “Fused Quartz Dual-Shell Resonator Gyroscope,” <i>Journal of Microelectromechanical Systems</i>, vol. 31, no. 4, pp. 533–545, Aug. 2022.<br><br>
+					<a href="https://esthersw.github.io/index.html">Main</a>
+					</p>
+                </div>
+            </div>
+        </div>
+		<div>
+   		 </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5 copyright">
+                    <p>
+                        &copy; 2025-<script>document.write(new Date().getFullYear());</script> Esther Wong. All rights reserved.</p> 
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/scripts.min.js"></script>
+</body>
+
+</html>
