@@ -10,6 +10,11 @@
     that don't come from third party libraries. This file gets compiled using
     Gulp and send to the /css folder which is then loaded on the page.
 */
+/*
+	Author: Esther Wong
+	ADA screen reader text for social icons added in ".sr-only" class.
+	Code from: https://webaim.org/techniques/css/invisiblecontent/ accessed 02/07/2025.
+*/
 body {
     font-family: 'Lato', sans-serif;
     font-size: 16px
