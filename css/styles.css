@@ -488,7 +488,7 @@ footer {
 }
 
 .vtimeline-pic {
-	position:relative;
+	position:center;
 	width: 120px;
     height: 120px;
     border-radius: 50%;
@@ -506,19 +506,19 @@ footer {
 }
 
 .vtimeline-img-1 {
-	width:90%;
+	width:100%;
 	height:auto;
 
 	margin-top: 25%;
 }
 
 .vtimeline-img-2 {
-	width:90%;
+	width:100%;
 	height:auto;
 }
 
 .vtimeline-img-3 {
-	width:90%;
+	width:100%;
 	height:auto;
 
 	margin-top: 25%;
@@ -541,7 +541,7 @@ footer {
 }
 
 .vtimeline-icon {
-    position: relative;
+    position: center;
     color: #fff;
     width: 50px;
     height: 50px;
