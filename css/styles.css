@@ -489,8 +489,8 @@ footer {
 
 .vtimeline-pic {
 	position:relative;
-	width: 100px;
-    height: 100px;
+	width: 150px;
+    height: 150px;
     border-radius: 50%;
     float: left;
     z-index: 99;
@@ -543,8 +543,8 @@ footer {
 .vtimeline-icon {
     position: relative;
     color: #fff;
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     background: #000;
     border-radius: 50%;
     float: left;
