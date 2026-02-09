@@ -488,9 +488,9 @@ footer {
 }
 
 .vtimeline-pic {
-	position:center;
-	width: 200px;
-    height: 200px;
+	position:relative;
+	width: 150px;
+    height: 150px;
     border-radius: 50%;
     float: left;
     z-index: 99;
