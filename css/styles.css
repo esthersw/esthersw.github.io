@@ -541,7 +541,7 @@ footer {
 }
 
 .vtimeline-icon {
-    position: center;
+    position: relative;
     color: #fff;
     width: 150px;
     height: 150px;
