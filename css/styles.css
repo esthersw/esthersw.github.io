@@ -1,7 +1,12 @@
 /*!
+    Last Change: 02/07/2025
+
+	Author: Esther Wong
+	ADA screen reader text for social icons added in ".sr-only" class.
+	Code from: https://webaim.org/techniques/css/invisiblecontent/ accessed 02/07/2025.
+/*
     Title: Dev Portfolio Template
     Version: 1.2.1
-    Last Change: 08/28/2017
     Author: Ryan Fitzgerald
     Repo: https://github.com/RyanFitzgerald/devportfolio-template
     Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
@@ -9,11 +14,7 @@
     Description: This file contains all the styles associated with the page
     that don't come from third party libraries. This file gets compiled using
     Gulp and send to the /css folder which is then loaded on the page.
-*/
-/*
-	Author: Esther Wong
-	ADA screen reader text for social icons added in ".sr-only" class.
-	Code from: https://webaim.org/techniques/css/invisiblecontent/ accessed 02/07/2025.
+
 */
 body {
     font-family: 'Lato', sans-serif;
@@ -617,6 +618,13 @@ footer {
 
 .education-block h4 {
     color: #74808a;
+    clear: both;
+    font-weight: 500;
+    margin: 0 0 15px 0
+}
+
+.education-block h5 {
+    color: #1414FF;
     clear: both;
     font-weight: 500;
     margin: 0 0 15px 0
