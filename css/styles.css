@@ -633,9 +633,9 @@ footer {
 .activities-block h5 {
     color: #1414FF;
     clear: both;
-    font-weight: 500;
+    font-weight: 400;
     margin: 10px 0 10px 0;
-    font-size:1em;
+    font-size:1.5em;
 }
 
 .education-block p,
