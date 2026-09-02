@@ -428,6 +428,12 @@ footer {
     max-width: 1000px
 }
 
+#experience-timeline-2 {
+    margin: 30px auto 0 auto;
+    position: relative;
+    max-width: 1000px
+}
+
 #experience-timeline:before {
     position: absolute;
     content: '';
