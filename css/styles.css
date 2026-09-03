@@ -2,6 +2,8 @@
     Last Change: 02/07/2025
 
 	Author: Esther Wong
+	09/03/26 Edited .vtimeline-pic to scale and center image. 
+	
 	ADA screen reader text for social icons added in ".sr-only" class.
 	Code from: https://webaim.org/techniques/css/invisiblecontent/ accessed 02/07/2025.
 /*
@@ -495,6 +497,9 @@ footer {
 }
 
 .vtimeline-pic {
+	display: flex;
+  	justify-content: center; 
+  	align-items: center;
 	position:relative;
 	width: 100px;
     height: 100px;
