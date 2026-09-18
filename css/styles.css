@@ -497,6 +497,21 @@ footer {
 }
 
 .vtimeline-pic {
+	position:relative;
+	width: 100px;
+    height: 100px;
+	object-fit: contain;
+    border-radius: 50%;
+    float: left;
+    z-index: 99;
+    margin-left: 230px;
+    background:#fff;
+    overflow:hidden;
+    border: 0.5px solid rgba(160, 160, 160, 0.3);
+    padding:5px;
+}
+
+.vtimeline-pic-2 {
 	display: flex;
   	justify-content: center; 
   	align-items: center;
